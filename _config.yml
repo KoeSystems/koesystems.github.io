@@ -1,0 +1,42 @@
+# Site settings
+description: A blog about lorem ipsum dolor sit amet
+#baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "http://localhost:3000"
+
+# User settings
+username: Koe
+user_description: Systems Engineer
+user_title: Systems Engineer
+email: koe.systems@gmail.com
+linkedin_username: joseluispenadesanvictor
+twitter_username: KoeSystems
+github_username:  KoeSystems
+disqus_username: KoeSystems
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Home
+    url: /
+  - title: Categories
+    url: /categories
+  - title: Tags
+    url: /tags
+  - title: About Me
+    url: /about
+
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
