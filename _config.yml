@@ -1,7 +1,6 @@
 # Site settings
 description: A blog about lorem ipsum dolor sit amet
-#baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "http://localhost:3000"
+url: "http://koesystems.github.io"
 
 # User settings
 username: Koe
