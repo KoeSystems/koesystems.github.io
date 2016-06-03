@@ -16,7 +16,7 @@ I think that this last option is particularly helpful every time I start a new p
 
 So, let's install and configure both in one **single node**.
 
-###Cookbook
+### Cookbook
 
 We will use Ubuntu 14.04 LTS (trusty) and Puppet 3.8.4
 
