@@ -5,6 +5,7 @@ description: "How to install puppet in single node for development environments"
 date: 2015-12-29 00:00:00
 tags:
 - puppet
+- agentless
 categories:
 - puppet
 twitter_text: 'puppet'
